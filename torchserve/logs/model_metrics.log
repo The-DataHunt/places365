@@ -1,0 +1,7 @@
+2020-10-21 08:25:46,468 - PredictionTime.Milliseconds:67.64|#ModelName:facenet,Level:Model|#hostname:ip-172-31-42-157,requestID:26ca77d4-67ee-46fb-a942-28b48845243a,timestamp:1603268746
+2020-10-21 08:26:05,914 - PredictionTime.Milliseconds:68.61|#ModelName:facenet,Level:Model|#hostname:ip-172-31-42-157,requestID:861d8b83-f92c-466e-a71b-ef0bf0ad81e1,timestamp:1603268765
+2020-10-21 08:26:42,823 - PredictionTime.Milliseconds:592.55|#ModelName:facenet,Level:Model|#hostname:ip-172-31-42-157,requestID:1416fddb-54f3-400b-9407-bd2bfbf3a12e,timestamp:1603268802
+2020-10-21 08:26:54,238 - PredictionTime.Milliseconds:600.06|#ModelName:facenet,Level:Model|#hostname:ip-172-31-42-157,requestID:301c2281-5d21-4a77-8190-7095df81d1ef,timestamp:1603268814
+2020-10-21 08:27:00,061 - PredictionTime.Milliseconds:567.28|#ModelName:facenet,Level:Model|#hostname:ip-172-31-42-157,requestID:b7621136-3383-4316-b95a-28786d4d7d20,timestamp:1603268820
+2020-10-21 08:30:42,102 - PredictionTime.Milliseconds:296.37|#ModelName:places365,Level:Model|#hostname:ip-172-31-42-157,requestID:c31cd7dc-d57f-4298-b2f8-4621c3f76113,timestamp:1603269042
+2020-10-21 08:34:46,153 - PredictionTime.Milliseconds:219.52|#ModelName:places365,Level:Model|#hostname:ip-172-31-42-157,requestID:5c163d09-eaa3-4205-bbd1-3d0194539759,timestamp:1603269286
